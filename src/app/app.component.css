@@ -1,0 +1,22 @@
+p {
+    border: 50px solid black;
+    outline: red 10px;
+    font-family: "courier";
+    margin: auto;    
+    padding: 25px;
+    text-align: left;
+    
+}
+
+h1 {
+    text-align: left;
+    border: 50px solid black;
+    outline: rgb(50, 35, 250) solid 10px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin: auto;    
+    padding: 25px;
+}
+
+body {
+    background-color: lightblue;
+}
