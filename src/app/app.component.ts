@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { PopularComponent } from './Popular/popular'
 import { PopularService } from './services/popularService'
 
 
